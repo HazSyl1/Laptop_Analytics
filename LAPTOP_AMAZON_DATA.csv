@@ -1,0 +1,326 @@
+PRICE,BRAND,SERIES,SCREEN,PROCESSOR,RAM,STORAGE TYPE,STORAGE AMOUNT,GPU_BRAND,GPU_SIZE,OS
+"2,78,764",‎HP,‎HP ZBook Studio G9,‎40.6 Centimetres,‎Core i7,‎16 GB,‎SSD,Not Avail,‎NVIDIA,‎8 GB,‎Windows 11 Home
+Not Avail,‎ASUS,‎VivoBook 15 (2021),‎15.6 Inches,‎Celeron N4020,‎4 GB,‎SSD,‎512 GB,‎Intel,‎4 GB,‎Windows 11 Home
+"23,990",‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i3,‎8 GB,‎SSD,‎512 GB,‎Intel,Not Avail,‎Windows 11 Home
+"18,990",‎HP,‎14a- na1004TU,‎35.6 Centimetres,‎Celeron N,‎4 GB,‎SSD,‎64 GB,‎Intel,‎4 GB,‎Windows 11 Home
+"18,990",‎Chuwi,‎HeroBook Pro,‎14.1 Inches,‎Celeron,‎8 GB,Not Avail,‎256 GB,‎Intel,Not Avail,‎Windows 11 Home
+"37,990",‎Acer,‎Aspire Lite,‎15.6 Inches,‎AMD Ryzen 5 5500U,‎16 GB,‎SSD,Not Avail,‎AMD,Not Avail,‎Windows 11 Home
+Not Avail,‎HP,Not Avail,‎39.6 Centimetres,‎Core i3,‎8 GB,‎SSD,‎512 GB,Not Avail,Not Avail,‎Windows 11 Home
+Not Avail,‎HP,‎HP Laptop 15s-eq2144AU,‎15.6 Inches,‎AMD Ryzen 5 5500U,‎8 GB,‎SSD,‎512 GB,‎AMD,‎8 GB,‎Windows 11 Home
+"30,990",‎Acer,Not Avail,‎15.6 Inches,‎Core I3 1115G4,‎8 GB,‎SSD,Not Avail,Not Avail,Not Avail,‎Windows 11 Home
+"20,200",‎HP,‎HP 255 G9,‎15.6 Inches,‎Athlon,‎4 GB,‎SSD,‎256 GB,‎AMD,‎4 GB,‎Windows 11 Home
+Not Avail,‎HP,Not Avail,‎15.6 Inches,‎Core i3,‎8 GB,‎SSD,‎512 GB,Not Avail,‎8 GB,‎Windows 11 Home
+"42,990",‎HP,Not Avail,‎39.6 Centimetres,‎Intel Core i3,‎8 GB,‎SSD,‎1 TB,Not Avail,‎8 GB,‎Windows 11 Home
+Not Avail,‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i7,‎16 GB,‎SSD,‎1 TB,‎Intel,‎8 GB,‎Windows 11 Home
+Not Avail,‎Lenovo,Not Avail,‎10.1 Inches,‎Celeron N4020,‎4 GB,‎SSD,‎128 GB,Not Avail,‎4 GB,‎Windows 11 Home
+"32,990",‎HP,‎15s- eq2213AU,‎39.6 Centimetres,‎Ryzen 3,‎8 GB,‎SSD,‎512 GB,‎AMD,‎8 GB,‎Windows 11 Home
+"1,13,571",‎ASUS,‎ROG Flow X13,‎34.03 Centimetres,‎Ryzen 9,‎16,‎SSD,‎512 GB,‎NVIDIA,‎4 GB,‎Windows 11 Home
+"2,78,764",‎HP,‎HP ZBook Studio G9,‎40.6 Centimetres,‎Core i7,‎16 GB,‎SSD,Not Avail,‎NVIDIA,‎8 GB,‎Windows 11 Home
+"25,990",‎ASUS,‎VivoBook 15 (2021),‎15.6 Inches,‎Celeron N4020,‎4 GB,‎SSD,‎512 GB,‎Intel,‎4 GB,‎Windows 11 Home
+Not Avail,‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i3,‎8 GB,‎SSD,‎512 GB,‎Intel,Not Avail,‎Windows 11 Home
+Not Avail,‎HP,‎14a- na1004TU,‎35.6 Centimetres,‎Celeron N,‎4 GB,‎SSD,‎64 GB,‎Intel,‎4 GB,‎Windows 11 Home
+Not Avail,‎Chuwi,‎HeroBook Pro,‎14.1 Inches,‎Celeron,‎8 GB,Not Avail,‎256 GB,‎Intel,Not Avail,‎Windows 11 Home
+"37,990",‎Acer,‎Aspire Lite,‎15.6 Inches,‎AMD Ryzen 5 5500U,‎16 GB,‎SSD,Not Avail,‎AMD,Not Avail,‎Windows 11 Home
+Not Avail,‎HP,Not Avail,‎39.6 Centimetres,‎Core i3,‎8 GB,‎SSD,‎512 GB,Not Avail,Not Avail,‎Windows 11 Home
+"40,499",‎HP,‎HP Laptop 15s-eq2144AU,‎15.6 Inches,‎AMD Ryzen 5 5500U,‎8 GB,‎SSD,‎512 GB,‎AMD,‎8 GB,‎Windows 11 Home
+Not Avail,‎Acer,Not Avail,‎15.6 Inches,‎Core I3 1115G4,‎8 GB,‎SSD,Not Avail,Not Avail,Not Avail,‎Windows 11 Home
+"20,200",‎HP,‎HP 255 G9,‎15.6 Inches,‎Athlon,‎4 GB,‎SSD,‎256 GB,‎AMD,‎4 GB,‎Windows 11 Home
+Not Avail,‎HP,Not Avail,‎15.6 Inches,‎Core i3,‎8 GB,‎SSD,‎512 GB,Not Avail,‎8 GB,‎Windows 11 Home
+"42,990",‎HP,Not Avail,‎39.6 Centimetres,‎Intel Core i3,‎8 GB,‎SSD,‎1 TB,Not Avail,‎8 GB,‎Windows 11 Home
+"35,990",‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i7,‎16 GB,‎SSD,‎1 TB,‎Intel,‎8 GB,‎Windows 11 Home
+"24,990",‎Lenovo,Not Avail,‎10.1 Inches,‎Celeron N4020,‎4 GB,‎SSD,‎128 GB,Not Avail,‎4 GB,‎Windows 11 Home
+Not Avail,‎ASUS,‎ROG Flow X13,‎34.03 Centimetres,‎Ryzen 9,‎16,‎SSD,‎512 GB,‎NVIDIA,‎4 GB,‎Windows 11 Home
+"35,990",‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i7,‎16 GB,‎SSD,‎1 TB,‎Intel,Not Avail,‎Windows 11 Home
+"2,78,764",‎HP,‎HP ZBook Studio G9,‎40.6 Centimetres,‎Core i7,‎16 GB,‎SSD,Not Avail,‎NVIDIA,‎8 GB,‎Windows 11 Home
+"25,990",‎ASUS,‎VivoBook 15 (2021),‎15.6 Inches,‎Celeron N4020,‎4 GB,‎SSD,‎512 GB,‎Intel,‎4 GB,‎Windows 11 Home
+"23,990",‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i3,‎8 GB,‎SSD,‎512 GB,‎Intel,Not Avail,‎Windows 11 Home
+"18,990",‎HP,‎14a- na1004TU,‎35.6 Centimetres,‎Celeron N,‎4 GB,‎SSD,‎64 GB,‎Intel,‎4 GB,‎Windows 11 Home
+"18,990",‎Chuwi,‎HeroBook Pro,‎14.1 Inches,‎Celeron,‎8 GB,Not Avail,‎256 GB,‎Intel,Not Avail,‎Windows 11 Home
+"37,990",‎Acer,‎Aspire Lite,‎15.6 Inches,‎AMD Ryzen 5 5500U,‎16 GB,‎SSD,Not Avail,‎AMD,Not Avail,‎Windows 11 Home
+Not Avail,‎HP,Not Avail,‎39.6 Centimetres,‎Core i3,‎8 GB,‎SSD,‎512 GB,Not Avail,Not Avail,‎Windows 11 Home
+"19,990",‎HP,‎Chromebook,‎14 Inches,‎Celeron N4020,‎4 GB,‎SSD,‎64 GB,‎Intel,‎4 GB,‎Windows 11 Home
+"22,990",‎HP,‎255 G8,‎15.6 Inches,‎Athlon 3050U,‎8 GB,‎SSD,‎256 GB,‎AMD,Not Avail,‎Windows 11 Home
+"20,200",‎HP,‎HP 255 G9,‎15.6 Inches,‎Athlon,‎4 GB,‎SSD,‎256 GB,‎AMD,‎4 GB,‎Windows 11 Home
+"35,999",‎HP,Not Avail,‎15.6 Inches,‎Core i3,‎8 GB,‎SSD,‎512 GB,Not Avail,‎8 GB,‎Windows 11 Home
+"42,990",‎HP,Not Avail,‎39.6 Centimetres,‎Intel Core i3,‎8 GB,‎SSD,‎1 TB,Not Avail,‎8 GB,‎Windows 11 Home
+"35,990",‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i7,‎16 GB,‎SSD,‎1 TB,‎Intel,‎8 GB,‎Windows 11 Home
+Not Avail,‎HP,‎15s- eq2213AU,‎39.6 Centimetres,‎Ryzen 3,‎8 GB,‎SSD,‎512 GB,‎AMD,‎8 GB,‎Windows 11 Home
+"1,13,571",‎ASUS,‎ROG Flow X13,‎34.03 Centimetres,‎Ryzen 9,‎16,‎SSD,‎512 GB,‎NVIDIA,‎4 GB,‎Windows 11 Home
+Not Avail,‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i7,‎16 GB,‎SSD,‎1 TB,‎Intel,Not Avail,‎Windows 11 Home
+Not Avail,‎HP,‎HP ZBook Studio G9,‎40.6 Centimetres,‎Core i7,‎16 GB,‎SSD,Not Avail,‎NVIDIA,‎8 GB,‎Windows 11 Home
+"25,990",‎ASUS,‎VivoBook 15 (2021),‎15.6 Inches,‎Celeron N4020,‎4 GB,‎SSD,‎512 GB,‎Intel,‎4 GB,‎Windows 11 Home
+"23,990",‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i3,‎8 GB,‎SSD,‎512 GB,‎Intel,Not Avail,‎Windows 11 Home
+"18,990",‎HP,‎14a- na1004TU,‎35.6 Centimetres,‎Celeron N,‎4 GB,‎SSD,‎64 GB,‎Intel,‎4 GB,‎Windows 11 Home
+"18,990",‎Chuwi,‎HeroBook Pro,‎14.1 Inches,‎Celeron,‎8 GB,Not Avail,‎256 GB,‎Intel,Not Avail,‎Windows 11 Home
+Not Avail,‎Acer,‎Aspire Lite,‎15.6 Inches,‎AMD Ryzen 5 5500U,‎16 GB,‎SSD,Not Avail,‎AMD,Not Avail,‎Windows 11 Home
+"39,690",‎HP,Not Avail,‎39.6 Centimetres,‎Core i3,‎8 GB,‎SSD,‎512 GB,Not Avail,Not Avail,‎Windows 11 Home
+Not Avail,‎HP,‎Chromebook,‎14 Inches,‎Celeron N4020,‎4 GB,‎SSD,‎64 GB,‎Intel,‎4 GB,‎Windows 11 Home
+"22,990",‎HP,‎255 G8,‎15.6 Inches,‎Athlon 3050U,‎8 GB,‎SSD,‎256 GB,‎AMD,Not Avail,‎Windows 11 Home
+"20,200",‎HP,‎HP 255 G9,‎15.6 Inches,‎Athlon,‎4 GB,‎SSD,‎256 GB,‎AMD,‎4 GB,‎Windows 11 Home
+"35,999",‎HP,Not Avail,‎15.6 Inches,‎Core i3,‎8 GB,‎SSD,‎512 GB,Not Avail,‎8 GB,‎Windows 11 Home
+Not Avail,‎HP,Not Avail,‎39.6 Centimetres,‎Intel Core i3,‎8 GB,‎SSD,‎1 TB,Not Avail,‎8 GB,‎Windows 11 Home
+"35,990",‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i7,‎16 GB,‎SSD,‎1 TB,‎Intel,‎8 GB,‎Windows 11 Home
+"32,990",‎HP,‎15s- eq2213AU,‎39.6 Centimetres,‎Ryzen 3,‎8 GB,‎SSD,‎512 GB,‎AMD,‎8 GB,‎Windows 11 Home
+"1,13,571",‎ASUS,‎ROG Flow X13,‎34.03 Centimetres,‎Ryzen 9,‎16,‎SSD,‎512 GB,‎NVIDIA,‎4 GB,‎Windows 11 Home
+"35,990",‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i7,‎16 GB,‎SSD,‎1 TB,‎Intel,Not Avail,‎Windows 11 Home
+"47,990",‎Dell,‎Inspiron 3535,‎15.6 Inches,‎Ryzen 5,‎8 GB,‎SSD,Not Avail,‎AMD,Not Avail,‎Windows 11 Home
+"67,190",‎Lenovo,‎IdeaPad Flex 5 14IAU7,‎14 Inches,‎Core i5,‎16 GB,‎SSD,Not Avail,‎Intel,Not Avail,‎Windows 11 Home
+"50,990",‎Dell,‎Inspiron 3520,‎15.6 Inches,‎Core i5,‎8 GB,‎SSD,Not Avail,‎Intel,Not Avail,‎Windows 11 Home
+Not Avail,‎HP,‎HP 15s-eq2143au,‎15.6 Inches,‎Ryzen 3,‎8 GB,‎SSD,‎512 GB,‎AMD,‎8 GB,‎Windows 11 Home
+"35,390",‎Lenovo,‎Ideapad,‎15.6 Inches,‎Core i3,‎8 GB,‎SSD,‎512 GB,‎Intel,‎8 GB,‎Windows 11 Home
+"2,78,764",‎HP,‎HP ZBook Studio G9,‎40.6 Centimetres,‎Core i7,‎16 GB,‎SSD,Not Avail,‎NVIDIA,‎8 GB,‎Windows 11 Home
+"25,990",‎ASUS,‎VivoBook 15 (2021),‎15.6 Inches,‎Celeron N4020,‎4 GB,‎SSD,‎512 GB,‎Intel,‎4 GB,‎Windows 11 Home
+"23,990",‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i3,‎8 GB,‎SSD,‎512 GB,‎Intel,Not Avail,‎Windows 11 Home
+"18,990",‎HP,‎14a- na1004TU,‎35.6 Centimetres,‎Celeron N,‎4 GB,‎SSD,‎64 GB,‎Intel,‎4 GB,‎Windows 11 Home
+"18,990",‎Chuwi,‎HeroBook Pro,‎14.1 Inches,‎Celeron,‎8 GB,Not Avail,‎256 GB,‎Intel,Not Avail,‎Windows 11 Home
+"37,990",‎Acer,‎Aspire Lite,‎15.6 Inches,‎AMD Ryzen 5 5500U,‎16 GB,‎SSD,Not Avail,‎AMD,Not Avail,‎Windows 11 Home
+Not Avail,‎HP,Not Avail,‎39.6 Centimetres,‎Core i3,‎8 GB,‎SSD,‎512 GB,Not Avail,Not Avail,‎Windows 11 Home
+Not Avail,‎HP,‎Chromebook,‎14 Inches,‎Celeron N4020,‎4 GB,‎SSD,‎64 GB,‎Intel,‎4 GB,‎Windows 11 Home
+Not Avail,‎Acer,Not Avail,‎15.6 Inches,‎Core i3,‎8 GB,‎SSD,Not Avail,Not Avail,Not Avail,‎Windows 11 Home
+"40,499",‎HP,‎HP Laptop 15s-eq2144AU,‎15.6 Inches,‎AMD Ryzen 5 5500U,‎8 GB,‎SSD,‎512 GB,‎AMD,‎8 GB,‎Windows 11 Home
+Not Avail,‎Acer,Not Avail,‎15.6 Inches,‎Core I3 1115G4,‎8 GB,‎SSD,Not Avail,Not Avail,Not Avail,‎Windows 11 Home
+"29,490",‎HP,‎15s-fq3071TU,‎39.6 Centimetres,‎Celeron,‎8 GB,‎SSD,‎512 GB,‎Intel,Not Avail,‎Windows 11 Home
+Not Avail,‎HP,‎HP 255 G9,‎15.6 Inches,‎Athlon,‎4 GB,‎SSD,‎256 GB,‎AMD,‎4 GB,‎Windows 11 Home
+"35,999",‎HP,Not Avail,‎15.6 Inches,‎Core i3,‎8 GB,‎SSD,‎512 GB,Not Avail,‎8 GB,‎Windows 11 Home
+Not Avail,‎HP,Not Avail,‎39.6 Centimetres,‎Intel Core i3,‎8 GB,‎SSD,‎1 TB,Not Avail,‎8 GB,‎Windows 11 Home
+Not Avail,‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i7,‎16 GB,‎SSD,‎1 TB,‎Intel,‎8 GB,‎Windows 11 Home
+Not Avail,‎HP,‎HP ZBook Studio G9,‎40.6 Centimetres,‎Core i7,‎16 GB,‎SSD,Not Avail,‎NVIDIA,‎8 GB,‎Windows 11 Home
+"25,990",‎ASUS,‎VivoBook 15 (2021),‎15.6 Inches,‎Celeron N4020,‎4 GB,‎SSD,‎512 GB,‎Intel,‎4 GB,‎Windows 11 Home
+"23,990",‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i3,‎8 GB,‎SSD,‎512 GB,‎Intel,Not Avail,‎Windows 11 Home
+Not Avail,‎HP,‎14a- na1004TU,‎35.6 Centimetres,‎Celeron N,‎4 GB,‎SSD,‎64 GB,‎Intel,‎4 GB,‎Windows 11 Home
+Not Avail,‎Chuwi,‎HeroBook Pro,‎14.1 Inches,‎Celeron,‎8 GB,Not Avail,‎256 GB,‎Intel,Not Avail,‎Windows 11 Home
+Not Avail,‎Acer,‎Aspire Lite,‎15.6 Inches,‎AMD Ryzen 5 5500U,‎16 GB,‎SSD,Not Avail,‎AMD,Not Avail,‎Windows 11 Home
+Not Avail,‎HP,Not Avail,‎39.6 Centimetres,‎Core i3,‎8 GB,‎SSD,‎512 GB,Not Avail,Not Avail,‎Windows 11 Home
+Not Avail,‎HP,‎255 G8,‎15.6 Inches,‎Athlon 3050U,‎8 GB,‎SSD,‎256 GB,‎AMD,Not Avail,‎Windows 11 Home
+"20,200",‎HP,‎HP 255 G9,‎15.6 Inches,‎Athlon,‎4 GB,‎SSD,‎256 GB,‎AMD,‎4 GB,‎Windows 11 Home
+"35,999",‎HP,Not Avail,‎15.6 Inches,‎Core i3,‎8 GB,‎SSD,‎512 GB,Not Avail,‎8 GB,‎Windows 11 Home
+Not Avail,‎HP,Not Avail,‎39.6 Centimetres,‎Intel Core i3,‎8 GB,‎SSD,‎1 TB,Not Avail,‎8 GB,‎Windows 11 Home
+"35,990",‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i7,‎16 GB,‎SSD,‎1 TB,‎Intel,‎8 GB,‎Windows 11 Home
+Not Avail,‎HP,‎15s- eq2213AU,‎39.6 Centimetres,‎Ryzen 3,‎8 GB,‎SSD,‎512 GB,‎AMD,‎8 GB,‎Windows 11 Home
+"1,13,571",‎ASUS,‎ROG Flow X13,‎34.03 Centimetres,‎Ryzen 9,‎16,‎SSD,‎512 GB,‎NVIDIA,‎4 GB,‎Windows 11 Home
+"35,990",‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i7,‎16 GB,‎SSD,‎1 TB,‎Intel,Not Avail,‎Windows 11 Home
+"61,990",‎HP,‎15-fd0013TU,‎39.6 Centimetres,‎Core i5,‎16 GB,‎SSD,‎512 GB,‎Intel,Not Avail,‎Windows 11 Home
+"2,78,764",‎HP,‎HP ZBook Studio G9,‎40.6 Centimetres,‎Core i7,‎16 GB,‎SSD,Not Avail,‎NVIDIA,‎8 GB,‎Windows 11 Home
+Not Avail,‎ASUS,‎VivoBook 15 (2021),‎15.6 Inches,‎Celeron N4020,‎4 GB,‎SSD,‎512 GB,‎Intel,‎4 GB,‎Windows 11 Home
+Not Avail,‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i3,‎8 GB,‎SSD,‎512 GB,‎Intel,Not Avail,‎Windows 11 Home
+"18,990",‎HP,‎14a- na1004TU,‎35.6 Centimetres,‎Celeron N,‎4 GB,‎SSD,‎64 GB,‎Intel,‎4 GB,‎Windows 11 Home
+"18,990",‎Chuwi,‎HeroBook Pro,‎14.1 Inches,‎Celeron,‎8 GB,Not Avail,‎256 GB,‎Intel,Not Avail,‎Windows 11 Home
+"37,990",‎Acer,‎Aspire Lite,‎15.6 Inches,‎AMD Ryzen 5 5500U,‎16 GB,‎SSD,Not Avail,‎AMD,Not Avail,‎Windows 11 Home
+Not Avail,‎HP,Not Avail,‎39.6 Centimetres,‎Core i3,‎8 GB,‎SSD,‎512 GB,Not Avail,Not Avail,‎Windows 11 Home
+Not Avail,‎HP,‎Chromebook,‎14 Inches,‎Celeron N4020,‎4 GB,‎SSD,‎64 GB,‎Intel,‎4 GB,‎Windows 11 Home
+Not Avail,‎HP,‎HP Laptop 15s-eq2144AU,‎15.6 Inches,‎AMD Ryzen 5 5500U,‎8 GB,‎SSD,‎512 GB,‎AMD,‎8 GB,‎Windows 11 Home
+"30,990",‎Acer,Not Avail,‎15.6 Inches,‎Core I3 1115G4,‎8 GB,‎SSD,Not Avail,Not Avail,Not Avail,‎Windows 11 Home
+"20,200",‎HP,‎HP 255 G9,‎15.6 Inches,‎Athlon,‎4 GB,‎SSD,‎256 GB,‎AMD,‎4 GB,‎Windows 11 Home
+"21,990",‎Lenovo,Not Avail,‎15.6 Inches,‎Celeron,‎8 GB,‎SSD,‎256 GB,Not Avail,‎8 GB,‎Windows 11 Home
+Not Avail,‎HP,Not Avail,‎39.6 Centimetres,‎Intel Core i3,‎8 GB,‎SSD,‎1 TB,Not Avail,‎8 GB,‎Windows 11 Home
+"35,990",‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i7,‎16 GB,‎SSD,‎1 TB,‎Intel,‎8 GB,‎Windows 11 Home
+"24,990",‎Lenovo,Not Avail,‎10.1 Inches,‎Celeron N4020,‎4 GB,‎SSD,‎128 GB,Not Avail,‎4 GB,‎Windows 11 Home
+"32,990",‎HP,‎15s- eq2213AU,‎39.6 Centimetres,‎Ryzen 3,‎8 GB,‎SSD,‎512 GB,‎AMD,‎8 GB,‎Windows 11 Home
+"57,700",‎Dell,‎Vostro 3530,‎15.6 Inches,‎Core i5,‎8 GB,‎SSD,Not Avail,‎Intel,Not Avail,‎Windows 11 Home
+Not Avail,‎Dell,‎Inspiron 3520,‎15.6 Inches,‎Core i5,‎16 GB,‎SSD,Not Avail,‎Intel,Not Avail,‎Windows 11 Home
+"2,78,764",‎HP,‎HP ZBook Studio G9,‎40.6 Centimetres,‎Core i7,‎16 GB,‎SSD,Not Avail,‎NVIDIA,‎8 GB,‎Windows 11 Home
+"25,990",‎ASUS,‎VivoBook 15 (2021),‎15.6 Inches,‎Celeron N4020,‎4 GB,‎SSD,‎512 GB,‎Intel,‎4 GB,‎Windows 11 Home
+"23,990",‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i3,‎8 GB,‎SSD,‎512 GB,‎Intel,Not Avail,‎Windows 11 Home
+"18,990",‎HP,‎14a- na1004TU,‎35.6 Centimetres,‎Celeron N,‎4 GB,‎SSD,‎64 GB,‎Intel,‎4 GB,‎Windows 11 Home
+"18,990",‎Chuwi,‎HeroBook Pro,‎14.1 Inches,‎Celeron,‎8 GB,Not Avail,‎256 GB,‎Intel,Not Avail,‎Windows 11 Home
+"37,990",‎Acer,‎Aspire Lite,‎15.6 Inches,‎AMD Ryzen 5 5500U,‎16 GB,‎SSD,Not Avail,‎AMD,Not Avail,‎Windows 11 Home
+"39,690",‎HP,Not Avail,‎39.6 Centimetres,‎Core i3,‎8 GB,‎SSD,‎512 GB,Not Avail,Not Avail,‎Windows 11 Home
+"19,990",‎HP,‎Chromebook,‎14 Inches,‎Celeron N4020,‎4 GB,‎SSD,‎64 GB,‎Intel,‎4 GB,‎Windows 11 Home
+Not Avail,Not Avail,Not Avail,Not Avail,Not Avail,Not Avail,Not Avail,Not Avail,Not Avail,Not Avail,‎Windows 11 Home
+"26,190",‎Lenovo,Not Avail,‎14 Inches,‎Celeron,‎8 GB,‎SSD,‎256 GB,Not Avail,‎8 GB,‎Windows 11 Home
+Not Avail,‎HP,‎HP Laptop 15s-eq2144AU,‎15.6 Inches,‎AMD Ryzen 5 5500U,‎8 GB,‎SSD,‎512 GB,‎AMD,‎8 GB,‎Windows 11 Home
+"30,990",‎Acer,Not Avail,‎15.6 Inches,‎Core I3 1115G4,‎8 GB,‎SSD,Not Avail,Not Avail,Not Avail,‎Windows 11 Home
+Not Avail,‎HP,‎HP 255 G9,‎15.6 Inches,‎Athlon,‎4 GB,‎SSD,‎256 GB,‎AMD,‎4 GB,‎Windows 11 Home
+Not Avail,‎Lenovo,Not Avail,‎15.6 Inches,‎Celeron,‎8 GB,‎SSD,‎256 GB,Not Avail,‎8 GB,‎Windows 11 Home
+"42,990",‎HP,Not Avail,‎39.6 Centimetres,‎Intel Core i3,‎8 GB,‎SSD,‎1 TB,Not Avail,‎8 GB,‎Windows 11 Home
+Not Avail,‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i7,‎16 GB,‎SSD,‎1 TB,‎Intel,‎8 GB,‎Windows 11 Home
+"24,990",‎Lenovo,Not Avail,‎10.1 Inches,‎Celeron N4020,‎4 GB,‎SSD,‎128 GB,Not Avail,‎4 GB,‎Windows 11 Home
+Not Avail,‎HP,‎15s- eq2213AU,‎39.6 Centimetres,‎Ryzen 3,‎8 GB,‎SSD,‎512 GB,‎AMD,‎8 GB,‎Windows 11 Home
+Not Avail,‎Dell,‎Vostro 3510,‎15.6 Inches,‎Core i5,‎16 GB,‎SSD,‎512 GB,‎Intel,‎2 GB,‎Windows 11 Home
+"41,990",‎MSI,‎Modern 15 B11M-061IN,‎40 Centimetres,‎Core i5,‎16 GB,‎SSD,Not Avail,‎Intel,Not Avail,‎Windows 11 Home
+"2,78,764",‎HP,‎HP ZBook Studio G9,‎40.6 Centimetres,‎Core i7,‎16 GB,‎SSD,Not Avail,‎NVIDIA,‎8 GB,‎Windows 11 Home
+"25,990",‎ASUS,‎VivoBook 15 (2021),‎15.6 Inches,‎Celeron N4020,‎4 GB,‎SSD,‎512 GB,‎Intel,‎4 GB,‎Windows 11 Home
+"23,990",‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i3,‎8 GB,‎SSD,‎512 GB,‎Intel,Not Avail,‎Windows 11 Home
+"18,990",‎HP,‎14a- na1004TU,‎35.6 Centimetres,‎Celeron N,‎4 GB,‎SSD,‎64 GB,‎Intel,‎4 GB,‎Windows 11 Home
+"18,990",‎Chuwi,‎HeroBook Pro,‎14.1 Inches,‎Celeron,‎8 GB,Not Avail,‎256 GB,‎Intel,Not Avail,‎Windows 11 Home
+"37,990",‎Acer,‎Aspire Lite,‎15.6 Inches,‎AMD Ryzen 5 5500U,‎16 GB,‎SSD,Not Avail,‎AMD,Not Avail,‎Windows 11 Home
+"39,690",‎HP,Not Avail,‎39.6 Centimetres,‎Core i3,‎8 GB,‎SSD,‎512 GB,Not Avail,Not Avail,‎Windows 11 Home
+"19,990",‎HP,‎Chromebook,‎14 Inches,‎Celeron N4020,‎4 GB,‎SSD,‎64 GB,‎Intel,‎4 GB,‎Windows 11 Home
+"22,990",‎HP,‎255 G8,‎15.6 Inches,‎Athlon 3050U,‎8 GB,‎SSD,‎256 GB,‎AMD,Not Avail,‎Windows 11 Home
+"20,200",‎HP,‎HP 255 G9,‎15.6 Inches,‎Athlon,‎4 GB,‎SSD,‎256 GB,‎AMD,‎4 GB,‎Windows 11 Home
+Not Avail,‎HP,Not Avail,‎15.6 Inches,‎Core i3,‎8 GB,‎SSD,‎512 GB,Not Avail,‎8 GB,‎Windows 11 Home
+"42,990",‎HP,Not Avail,‎39.6 Centimetres,‎Intel Core i3,‎8 GB,‎SSD,‎1 TB,Not Avail,‎8 GB,‎Windows 11 Home
+"35,990",‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i7,‎16 GB,‎SSD,‎1 TB,‎Intel,‎8 GB,‎Windows 11 Home
+"32,990",‎HP,‎15s- eq2213AU,‎39.6 Centimetres,‎Ryzen 3,‎8 GB,‎SSD,‎512 GB,‎AMD,‎8 GB,‎Windows 11 Home
+Not Avail,‎ASUS,‎ROG Flow X13,‎34.03 Centimetres,‎Ryzen 9,‎16,‎SSD,‎512 GB,‎NVIDIA,‎4 GB,‎Windows 11 Home
+"35,990",‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i7,‎16 GB,‎SSD,‎1 TB,‎Intel,Not Avail,‎Windows 11 Home
+Not Avail,‎HP,‎HP ZBook Studio G9,‎40.6 Centimetres,‎Core i7,‎16 GB,‎SSD,Not Avail,‎NVIDIA,‎8 GB,‎Windows 11 Home
+Not Avail,‎ASUS,‎VivoBook 15 (2021),‎15.6 Inches,‎Celeron N4020,‎4 GB,‎SSD,‎512 GB,‎Intel,‎4 GB,‎Windows 11 Home
+"23,990",‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i3,‎8 GB,‎SSD,‎512 GB,‎Intel,Not Avail,‎Windows 11 Home
+Not Avail,‎HP,‎14a- na1004TU,‎35.6 Centimetres,‎Celeron N,‎4 GB,‎SSD,‎64 GB,‎Intel,‎4 GB,‎Windows 11 Home
+"18,990",‎Chuwi,‎HeroBook Pro,‎14.1 Inches,‎Celeron,‎8 GB,Not Avail,‎256 GB,‎Intel,Not Avail,‎Windows 11 Home
+"37,990",‎Acer,‎Aspire Lite,‎15.6 Inches,‎AMD Ryzen 5 5500U,‎16 GB,‎SSD,Not Avail,‎AMD,Not Avail,‎Windows 11 Home
+Not Avail,‎HP,Not Avail,‎39.6 Centimetres,‎Core i3,‎8 GB,‎SSD,‎512 GB,Not Avail,Not Avail,‎Windows 11 Home
+"19,990",‎HP,‎Chromebook,‎14 Inches,‎Celeron N4020,‎4 GB,‎SSD,‎64 GB,‎Intel,‎4 GB,‎Windows 11 Home
+Not Avail,‎Acer,Not Avail,‎15.6 Inches,‎Core i3,‎8 GB,‎SSD,Not Avail,Not Avail,Not Avail,‎Windows 11 Home
+Not Avail,‎HP,‎HP Laptop 15s-eq2144AU,‎15.6 Inches,‎AMD Ryzen 5 5500U,‎8 GB,‎SSD,‎512 GB,‎AMD,‎8 GB,‎Windows 11 Home
+"30,990",‎Acer,Not Avail,‎15.6 Inches,‎Core I3 1115G4,‎8 GB,‎SSD,Not Avail,Not Avail,Not Avail,‎Windows 11 Home
+Not Avail,‎HP,‎15s-fq3071TU,‎39.6 Centimetres,‎Celeron,‎8 GB,‎SSD,‎512 GB,‎Intel,Not Avail,‎Windows 11 Home
+"20,200",‎HP,‎HP 255 G9,‎15.6 Inches,‎Athlon,‎4 GB,‎SSD,‎256 GB,‎AMD,‎4 GB,‎Windows 11 Home
+"35,999",‎HP,Not Avail,‎15.6 Inches,‎Core i3,‎8 GB,‎SSD,‎512 GB,Not Avail,‎8 GB,‎Windows 11 Home
+"42,990",‎HP,Not Avail,‎39.6 Centimetres,‎Intel Core i3,‎8 GB,‎SSD,‎1 TB,Not Avail,‎8 GB,‎Windows 11 Home
+"35,990",‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i7,‎16 GB,‎SSD,‎1 TB,‎Intel,‎8 GB,‎Windows 11 Home
+"2,78,764",‎HP,‎HP ZBook Studio G9,‎40.6 Centimetres,‎Core i7,‎16 GB,‎SSD,Not Avail,‎NVIDIA,‎8 GB,‎Windows 11 Home
+Not Avail,‎ASUS,‎VivoBook 15 (2021),‎15.6 Inches,‎Celeron N4020,‎4 GB,‎SSD,‎512 GB,‎Intel,‎4 GB,‎Windows 11 Home
+"23,990",‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i3,‎8 GB,‎SSD,‎512 GB,‎Intel,Not Avail,‎Windows 11 Home
+"18,990",‎HP,‎14a- na1004TU,‎35.6 Centimetres,‎Celeron N,‎4 GB,‎SSD,‎64 GB,‎Intel,‎4 GB,‎Windows 11 Home
+"18,990",‎Chuwi,‎HeroBook Pro,‎14.1 Inches,‎Celeron,‎8 GB,Not Avail,‎256 GB,‎Intel,Not Avail,‎Windows 11 Home
+"37,990",‎Acer,‎Aspire Lite,‎15.6 Inches,‎AMD Ryzen 5 5500U,‎16 GB,‎SSD,Not Avail,‎AMD,Not Avail,‎Windows 11 Home
+"39,690",‎HP,Not Avail,‎39.6 Centimetres,‎Core i3,‎8 GB,‎SSD,‎512 GB,Not Avail,Not Avail,‎Windows 11 Home
+Not Avail,‎HP,‎Chromebook,‎14 Inches,‎Celeron N4020,‎4 GB,‎SSD,‎64 GB,‎Intel,‎4 GB,‎Windows 11 Home
+"22,990",‎HP,‎255 G8,‎15.6 Inches,‎Athlon 3050U,‎8 GB,‎SSD,‎256 GB,‎AMD,Not Avail,‎Windows 11 Home
+"20,200",‎HP,‎HP 255 G9,‎15.6 Inches,‎Athlon,‎4 GB,‎SSD,‎256 GB,‎AMD,‎4 GB,‎Windows 11 Home
+"35,999",‎HP,Not Avail,‎15.6 Inches,‎Core i3,‎8 GB,‎SSD,‎512 GB,Not Avail,‎8 GB,‎Windows 11 Home
+"42,990",‎HP,Not Avail,‎39.6 Centimetres,‎Intel Core i3,‎8 GB,‎SSD,‎1 TB,Not Avail,‎8 GB,‎Windows 11 Home
+Not Avail,‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i7,‎16 GB,‎SSD,‎1 TB,‎Intel,‎8 GB,‎Windows 11 Home
+"32,990",‎HP,‎15s- eq2213AU,‎39.6 Centimetres,‎Ryzen 3,‎8 GB,‎SSD,‎512 GB,‎AMD,‎8 GB,‎Windows 11 Home
+"1,13,571",‎ASUS,‎ROG Flow X13,‎34.03 Centimetres,‎Ryzen 9,‎16,‎SSD,‎512 GB,‎NVIDIA,‎4 GB,‎Windows 11 Home
+"35,990",‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i7,‎16 GB,‎SSD,‎1 TB,‎Intel,Not Avail,‎Windows 11 Home
+"2,78,764",‎HP,‎HP ZBook Studio G9,‎40.6 Centimetres,‎Core i7,‎16 GB,‎SSD,Not Avail,‎NVIDIA,‎8 GB,‎Windows 11 Home
+Not Avail,‎ASUS,‎VivoBook 15 (2021),‎15.6 Inches,‎Celeron N4020,‎4 GB,‎SSD,‎512 GB,‎Intel,‎4 GB,‎Windows 11 Home
+"23,990",‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i3,‎8 GB,‎SSD,‎512 GB,‎Intel,Not Avail,‎Windows 11 Home
+"18,990",‎HP,‎14a- na1004TU,‎35.6 Centimetres,‎Celeron N,‎4 GB,‎SSD,‎64 GB,‎Intel,‎4 GB,‎Windows 11 Home
+Not Avail,‎Chuwi,‎HeroBook Pro,‎14.1 Inches,‎Celeron,‎8 GB,Not Avail,‎256 GB,‎Intel,Not Avail,‎Windows 11 Home
+"37,990",‎Acer,‎Aspire Lite,‎15.6 Inches,‎AMD Ryzen 5 5500U,‎16 GB,‎SSD,Not Avail,‎AMD,Not Avail,‎Windows 11 Home
+"39,690",‎HP,Not Avail,‎39.6 Centimetres,‎Core i3,‎8 GB,‎SSD,‎512 GB,Not Avail,Not Avail,‎Windows 11 Home
+"19,990",‎HP,‎Chromebook,‎14 Inches,‎Celeron N4020,‎4 GB,‎SSD,‎64 GB,‎Intel,‎4 GB,‎Windows 11 Home
+Not Avail,‎HP,‎255 G8,‎15.6 Inches,‎Athlon 3050U,‎8 GB,‎SSD,‎256 GB,‎AMD,Not Avail,‎Windows 11 Home
+"20,200",‎HP,‎HP 255 G9,‎15.6 Inches,‎Athlon,‎4 GB,‎SSD,‎256 GB,‎AMD,‎4 GB,‎Windows 11 Home
+"35,999",‎HP,Not Avail,‎15.6 Inches,‎Core i3,‎8 GB,‎SSD,‎512 GB,Not Avail,‎8 GB,‎Windows 11 Home
+"42,990",‎HP,Not Avail,‎39.6 Centimetres,‎Intel Core i3,‎8 GB,‎SSD,‎1 TB,Not Avail,‎8 GB,‎Windows 11 Home
+"35,990",‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i7,‎16 GB,‎SSD,‎1 TB,‎Intel,‎8 GB,‎Windows 11 Home
+"32,990",‎HP,‎15s- eq2213AU,‎39.6 Centimetres,‎Ryzen 3,‎8 GB,‎SSD,‎512 GB,‎AMD,‎8 GB,‎Windows 11 Home
+"1,13,571",‎ASUS,‎ROG Flow X13,‎34.03 Centimetres,‎Ryzen 9,‎16,‎SSD,‎512 GB,‎NVIDIA,‎4 GB,‎Windows 11 Home
+"35,990",‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i7,‎16 GB,‎SSD,‎1 TB,‎Intel,Not Avail,‎Windows 11 Home
+"2,78,764",‎HP,‎HP ZBook Studio G9,‎40.6 Centimetres,‎Core i7,‎16 GB,‎SSD,Not Avail,‎NVIDIA,‎8 GB,‎Windows 11 Home
+"25,990",‎ASUS,‎VivoBook 15 (2021),‎15.6 Inches,‎Celeron N4020,‎4 GB,‎SSD,‎512 GB,‎Intel,‎4 GB,‎Windows 11 Home
+Not Avail,‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i3,‎8 GB,‎SSD,‎512 GB,‎Intel,Not Avail,‎Windows 11 Home
+"18,990",‎HP,‎14a- na1004TU,‎35.6 Centimetres,‎Celeron N,‎4 GB,‎SSD,‎64 GB,‎Intel,‎4 GB,‎Windows 11 Home
+"18,990",‎Chuwi,‎HeroBook Pro,‎14.1 Inches,‎Celeron,‎8 GB,Not Avail,‎256 GB,‎Intel,Not Avail,‎Windows 11 Home
+"37,990",‎Acer,‎Aspire Lite,‎15.6 Inches,‎AMD Ryzen 5 5500U,‎16 GB,‎SSD,Not Avail,‎AMD,Not Avail,‎Windows 11 Home
+Not Avail,‎HP,Not Avail,‎39.6 Centimetres,‎Core i3,‎8 GB,‎SSD,‎512 GB,Not Avail,Not Avail,‎Windows 11 Home
+"19,990",‎HP,‎Chromebook,‎14 Inches,‎Celeron N4020,‎4 GB,‎SSD,‎64 GB,‎Intel,‎4 GB,‎Windows 11 Home
+"34,990",‎Acer,Not Avail,‎15.6 Inches,‎Core i3,‎8 GB,‎SSD,Not Avail,Not Avail,Not Avail,‎Windows 11 Home
+"40,499",‎HP,‎HP Laptop 15s-eq2144AU,‎15.6 Inches,‎AMD Ryzen 5 5500U,‎8 GB,‎SSD,‎512 GB,‎AMD,‎8 GB,‎Windows 11 Home
+Not Avail,‎Acer,Not Avail,‎15.6 Inches,‎Core I3 1115G4,‎8 GB,‎SSD,Not Avail,Not Avail,Not Avail,‎Windows 11 Home
+Not Avail,‎HP,‎15s-fq3071TU,‎39.6 Centimetres,‎Celeron,‎8 GB,‎SSD,‎512 GB,‎Intel,Not Avail,‎Windows 11 Home
+"20,200",‎HP,‎HP 255 G9,‎15.6 Inches,‎Athlon,‎4 GB,‎SSD,‎256 GB,‎AMD,‎4 GB,‎Windows 11 Home
+"35,999",‎HP,Not Avail,‎15.6 Inches,‎Core i3,‎8 GB,‎SSD,‎512 GB,Not Avail,‎8 GB,‎Windows 11 Home
+"42,990",‎HP,Not Avail,‎39.6 Centimetres,‎Intel Core i3,‎8 GB,‎SSD,‎1 TB,Not Avail,‎8 GB,‎Windows 11 Home
+"35,990",‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i7,‎16 GB,‎SSD,‎1 TB,‎Intel,‎8 GB,‎Windows 11 Home
+"57,700",‎Dell,‎Vostro 3530,‎15.6 Inches,‎Core i5,‎8 GB,‎SSD,Not Avail,‎Intel,Not Avail,‎Windows 11 Home
+Not Avail,‎Dell,‎Inspiron 3520,‎15.6 Inches,‎Core i5,‎16 GB,‎SSD,Not Avail,‎Intel,Not Avail,‎Windows 11 Home
+Not Avail,‎HP,‎HP ZBook Studio G9,‎40.6 Centimetres,‎Core i7,‎16 GB,‎SSD,Not Avail,‎NVIDIA,‎8 GB,‎Windows 11 Home
+"25,990",‎ASUS,‎VivoBook 15 (2021),‎15.6 Inches,‎Celeron N4020,‎4 GB,‎SSD,‎512 GB,‎Intel,‎4 GB,‎Windows 11 Home
+"23,990",‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i3,‎8 GB,‎SSD,‎512 GB,‎Intel,Not Avail,‎Windows 11 Home
+"18,990",‎HP,‎14a- na1004TU,‎35.6 Centimetres,‎Celeron N,‎4 GB,‎SSD,‎64 GB,‎Intel,‎4 GB,‎Windows 11 Home
+Not Avail,‎Chuwi,‎HeroBook Pro,‎14.1 Inches,‎Celeron,‎8 GB,Not Avail,‎256 GB,‎Intel,Not Avail,‎Windows 11 Home
+"37,990",‎Acer,‎Aspire Lite,‎15.6 Inches,‎AMD Ryzen 5 5500U,‎16 GB,‎SSD,Not Avail,‎AMD,Not Avail,‎Windows 11 Home
+"39,690",‎HP,Not Avail,‎39.6 Centimetres,‎Core i3,‎8 GB,‎SSD,‎512 GB,Not Avail,Not Avail,‎Windows 11 Home
+"19,990",‎HP,‎Chromebook,‎14 Inches,‎Celeron N4020,‎4 GB,‎SSD,‎64 GB,‎Intel,‎4 GB,‎Windows 11 Home
+Not Avail,Not Avail,Not Avail,Not Avail,Not Avail,Not Avail,Not Avail,Not Avail,Not Avail,Not Avail,‎Windows 11 Home
+"26,190",‎Lenovo,Not Avail,‎14 Inches,‎Celeron,‎8 GB,‎SSD,‎256 GB,Not Avail,‎8 GB,‎Windows 11 Home
+"34,990",‎Acer,Not Avail,‎15.6 Inches,‎Core i3,‎8 GB,‎SSD,Not Avail,Not Avail,Not Avail,‎Windows 11 Home
+"40,499",‎HP,‎HP Laptop 15s-eq2144AU,‎15.6 Inches,‎AMD Ryzen 5 5500U,‎8 GB,‎SSD,‎512 GB,‎AMD,‎8 GB,‎Windows 11 Home
+"30,990",‎Acer,Not Avail,‎15.6 Inches,‎Core I3 1115G4,‎8 GB,‎SSD,Not Avail,Not Avail,Not Avail,‎Windows 11 Home
+"29,490",‎HP,‎15s-fq3071TU,‎39.6 Centimetres,‎Celeron,‎8 GB,‎SSD,‎512 GB,‎Intel,Not Avail,‎Windows 11 Home
+"20,200",‎HP,‎HP 255 G9,‎15.6 Inches,‎Athlon,‎4 GB,‎SSD,‎256 GB,‎AMD,‎4 GB,‎Windows 11 Home
+Not Avail,‎HP,Not Avail,‎15.6 Inches,‎Core i3,‎8 GB,‎SSD,‎512 GB,Not Avail,‎8 GB,‎Windows 11 Home
+Not Avail,‎HP,Not Avail,‎39.6 Centimetres,‎Intel Core i3,‎8 GB,‎SSD,‎1 TB,Not Avail,‎8 GB,‎Windows 11 Home
+"35,990",‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i7,‎16 GB,‎SSD,‎1 TB,‎Intel,‎8 GB,‎Windows 11 Home
+"51,990",‎Dell,‎Vostro 3510,‎15.6 Inches,‎Core i5,‎16 GB,‎SSD,‎512 GB,‎Intel,‎2 GB,‎Windows 11 Home
+"41,990",‎MSI,‎Modern 15 B11M-061IN,‎40 Centimetres,‎Core i5,‎16 GB,‎SSD,Not Avail,‎Intel,Not Avail,‎Windows 11 Home
+Not Avail,‎HP,‎HP ZBook Studio G9,‎40.6 Centimetres,‎Core i7,‎16 GB,‎SSD,Not Avail,‎NVIDIA,‎8 GB,‎Windows 11 Home
+Not Avail,‎ASUS,‎VivoBook 15 (2021),‎15.6 Inches,‎Celeron N4020,‎4 GB,‎SSD,‎512 GB,‎Intel,‎4 GB,‎Windows 11 Home
+Not Avail,‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i3,‎8 GB,‎SSD,‎512 GB,‎Intel,Not Avail,‎Windows 11 Home
+"18,990",‎HP,‎14a- na1004TU,‎35.6 Centimetres,‎Celeron N,‎4 GB,‎SSD,‎64 GB,‎Intel,‎4 GB,‎Windows 11 Home
+"18,990",‎Chuwi,‎HeroBook Pro,‎14.1 Inches,‎Celeron,‎8 GB,Not Avail,‎256 GB,‎Intel,Not Avail,‎Windows 11 Home
+"37,990",‎Acer,‎Aspire Lite,‎15.6 Inches,‎AMD Ryzen 5 5500U,‎16 GB,‎SSD,Not Avail,‎AMD,Not Avail,‎Windows 11 Home
+"39,690",‎HP,Not Avail,‎39.6 Centimetres,‎Core i3,‎8 GB,‎SSD,‎512 GB,Not Avail,Not Avail,‎Windows 11 Home
+"19,990",‎HP,‎Chromebook,‎14 Inches,‎Celeron N4020,‎4 GB,‎SSD,‎64 GB,‎Intel,‎4 GB,‎Windows 11 Home
+Not Avail,‎HP,‎255 G8,‎15.6 Inches,‎Athlon 3050U,‎8 GB,‎SSD,‎256 GB,‎AMD,Not Avail,‎Windows 11 Home
+"20,200",‎HP,‎HP 255 G9,‎15.6 Inches,‎Athlon,‎4 GB,‎SSD,‎256 GB,‎AMD,‎4 GB,‎Windows 11 Home
+"35,999",‎HP,Not Avail,‎15.6 Inches,‎Core i3,‎8 GB,‎SSD,‎512 GB,Not Avail,‎8 GB,‎Windows 11 Home
+"42,990",‎HP,Not Avail,‎39.6 Centimetres,‎Intel Core i3,‎8 GB,‎SSD,‎1 TB,Not Avail,‎8 GB,‎Windows 11 Home
+"35,990",‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i7,‎16 GB,‎SSD,‎1 TB,‎Intel,‎8 GB,‎Windows 11 Home
+Not Avail,‎HP,‎15s- eq2213AU,‎39.6 Centimetres,‎Ryzen 3,‎8 GB,‎SSD,‎512 GB,‎AMD,‎8 GB,‎Windows 11 Home
+"1,13,571",‎ASUS,‎ROG Flow X13,‎34.03 Centimetres,‎Ryzen 9,‎16,‎SSD,‎512 GB,‎NVIDIA,‎4 GB,‎Windows 11 Home
+Not Avail,‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i7,‎16 GB,‎SSD,‎1 TB,‎Intel,Not Avail,‎Windows 11 Home
+Not Avail,‎HP,‎HP ZBook Studio G9,‎40.6 Centimetres,‎Core i7,‎16 GB,‎SSD,Not Avail,‎NVIDIA,‎8 GB,‎Windows 11 Home
+"25,990",‎ASUS,‎VivoBook 15 (2021),‎15.6 Inches,‎Celeron N4020,‎4 GB,‎SSD,‎512 GB,‎Intel,‎4 GB,‎Windows 11 Home
+"23,990",‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i3,‎8 GB,‎SSD,‎512 GB,‎Intel,Not Avail,‎Windows 11 Home
+"18,990",‎HP,‎14a- na1004TU,‎35.6 Centimetres,‎Celeron N,‎4 GB,‎SSD,‎64 GB,‎Intel,‎4 GB,‎Windows 11 Home
+"18,990",‎Chuwi,‎HeroBook Pro,‎14.1 Inches,‎Celeron,‎8 GB,Not Avail,‎256 GB,‎Intel,Not Avail,‎Windows 11 Home
+Not Avail,‎Acer,‎Aspire Lite,‎15.6 Inches,‎AMD Ryzen 5 5500U,‎16 GB,‎SSD,Not Avail,‎AMD,Not Avail,‎Windows 11 Home
+Not Avail,‎HP,Not Avail,‎39.6 Centimetres,‎Core i3,‎8 GB,‎SSD,‎512 GB,Not Avail,Not Avail,‎Windows 11 Home
+"19,990",‎HP,‎Chromebook,‎14 Inches,‎Celeron N4020,‎4 GB,‎SSD,‎64 GB,‎Intel,‎4 GB,‎Windows 11 Home
+Not Avail,‎HP,‎HP Laptop 15s-eq2144AU,‎15.6 Inches,‎AMD Ryzen 5 5500U,‎8 GB,‎SSD,‎512 GB,‎AMD,‎8 GB,‎Windows 11 Home
+"30,990",‎Acer,Not Avail,‎15.6 Inches,‎Core I3 1115G4,‎8 GB,‎SSD,Not Avail,Not Avail,Not Avail,‎Windows 11 Home
+Not Avail,‎HP,‎HP 255 G9,‎15.6 Inches,‎Athlon,‎4 GB,‎SSD,‎256 GB,‎AMD,‎4 GB,‎Windows 11 Home
+Not Avail,‎Lenovo,Not Avail,‎15.6 Inches,‎Celeron,‎8 GB,‎SSD,‎256 GB,Not Avail,‎8 GB,‎Windows 11 Home
+"42,990",‎HP,Not Avail,‎39.6 Centimetres,‎Intel Core i3,‎8 GB,‎SSD,‎1 TB,Not Avail,‎8 GB,‎Windows 11 Home
+"35,990",‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i7,‎16 GB,‎SSD,‎1 TB,‎Intel,‎8 GB,‎Windows 11 Home
+"24,990",‎Lenovo,Not Avail,‎10.1 Inches,‎Celeron N4020,‎4 GB,‎SSD,‎128 GB,Not Avail,‎4 GB,‎Windows 11 Home
+Not Avail,‎HP,‎15s- eq2213AU,‎39.6 Centimetres,‎Ryzen 3,‎8 GB,‎SSD,‎512 GB,‎AMD,‎8 GB,‎Windows 11 Home
+Not Avail,‎HP,‎255 G8,‎15.6 Inches,‎Athlon 3050U,‎8 GB,‎SSD,‎256 GB,‎AMD,Not Avail,‎Windows 11 Home
+Not Avail,‎HP,Not Avail,‎39.6 Centimetres,‎Core i3,‎8 GB,‎SSD,‎512 GB,Not Avail,Not Avail,‎Windows 11 Home
+Not Avail,‎Lenovo,‎Lenovo ThinkPad,‎14 Inches,‎Intel Core i5,‎8 GB,‎SSD,Not Avail,‎Intel,Not Avail,‎Windows 11 Home
+Not Avail,‎Lenovo,‎IdeaPad Gaming 3 15IHU6,‎15.6 Inches,‎Core i5-11320H,‎8 GB,‎SSD,‎512 GB,‎NVIDIA,‎4 GB,‎Windows 11 Home
+"34,990",‎HP,‎HP 15s-eq2143au,‎15.6 Inches,‎Ryzen 3,‎8 GB,‎SSD,‎512 GB,‎AMD,‎8 GB,‎Windows 11 Home
+Not Avail,‎Lenovo,Not Avail,‎15.6 Inches,‎Core i3,‎8 GB,‎SSD,Not Avail,Not Avail,Not Avail,‎Windows 11 Home
+"56,990",‎Lenovo,‎IdeaPad,‎15.6 Inches,‎Intel Core i5,‎16 GB,‎SSD,‎512 GB,‎Intel,Not Avail,‎Windows 11 Home
+"49,990",‎Lenovo,‎Lenovo V15,‎15.6 Inches,‎Core i7-1255U,‎16 GB,‎SSD,Not Avail,‎Intel,Not Avail,‎Windows 11 Home
+"21,990",‎Lenovo,Not Avail,‎15.6 Inches,‎Celeron,‎8 GB,‎SSD,‎256 GB,Not Avail,‎8 GB,‎Windows 11 Home
+"23,990",‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i3,‎8 GB,‎SSD,‎512 GB,‎Intel,Not Avail,‎Windows 11 Home
+"2,78,764",‎HP,‎HP ZBook Studio G9,‎40.6 Centimetres,‎Core i7,‎16 GB,‎SSD,Not Avail,‎NVIDIA,‎8 GB,‎Windows 11 Home
+"18,990",‎Chuwi,‎HeroBook Pro,‎14.1 Inches,‎Celeron,‎8 GB,Not Avail,‎256 GB,‎Intel,Not Avail,‎Windows 11 Home
+"1,13,571",‎ASUS,‎ROG Flow X13,‎34.03 Centimetres,‎Ryzen 9,‎16,‎SSD,‎512 GB,‎NVIDIA,‎4 GB,‎Windows 11 Home
+"18,990",‎HP,‎14a- na1004TU,‎35.6 Centimetres,‎Celeron N,‎4 GB,‎SSD,‎64 GB,‎Intel,‎4 GB,‎Windows 11 Home
+Not Avail,‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i7,‎16 GB,‎SSD,‎1 TB,‎Intel,Not Avail,‎Windows 11 Home
+"35,990",‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i7,‎16 GB,‎SSD,‎1 TB,‎Intel,‎8 GB,‎Windows 11 Home
+"32,990",‎HP,‎15s- eq2213AU,‎39.6 Centimetres,‎Ryzen 3,‎8 GB,‎SSD,‎512 GB,‎AMD,‎8 GB,‎Windows 11 Home
+Not Avail,‎Lenovo,‎Lenovo ThinkPad,‎14 Inches,‎Intel Core i5,‎8 GB,‎SSD,‎256 GB,‎Intel,‎8 GB,‎Windows 11 Home
+"25,990",‎ASUS,‎VivoBook 15 (2021),‎15.6 Inches,‎Celeron N4020,‎4 GB,‎SSD,‎512 GB,‎Intel,‎4 GB,‎Windows 11 Home
+Not Avail,‎HP,Not Avail,‎15.6 Inches,‎Core i3,‎8 GB,‎SSD,‎512 GB,Not Avail,‎8 GB,‎Windows 11 Home
+Not Avail,‎HP,‎HP ZBook Studio G9,‎40.6 Centimetres,‎Core i7,‎16 GB,‎SSD,Not Avail,‎NVIDIA,‎8 GB,‎Windows 11 Home
+"25,990",‎ASUS,‎VivoBook 15 (2021),‎15.6 Inches,‎Celeron N4020,‎4 GB,‎SSD,‎512 GB,‎Intel,‎4 GB,‎Windows 11 Home
+"23,990",‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i3,‎8 GB,‎SSD,‎512 GB,‎Intel,Not Avail,‎Windows 11 Home
+Not Avail,‎HP,‎14a- na1004TU,‎35.6 Centimetres,‎Celeron N,‎4 GB,‎SSD,‎64 GB,‎Intel,‎4 GB,‎Windows 11 Home
+Not Avail,‎Chuwi,‎HeroBook Pro,‎14.1 Inches,‎Celeron,‎8 GB,Not Avail,‎256 GB,‎Intel,Not Avail,‎Windows 11 Home
+"37,990",‎Acer,‎Aspire Lite,‎15.6 Inches,‎AMD Ryzen 5 5500U,‎16 GB,‎SSD,Not Avail,‎AMD,Not Avail,‎Windows 11 Home
+"39,690",‎HP,Not Avail,‎39.6 Centimetres,‎Core i3,‎8 GB,‎SSD,‎512 GB,Not Avail,Not Avail,‎Windows 11 Home
+"19,990",‎HP,‎Chromebook,‎14 Inches,‎Celeron N4020,‎4 GB,‎SSD,‎64 GB,‎Intel,‎4 GB,‎Windows 11 Home
+"34,990",‎Acer,Not Avail,‎15.6 Inches,‎Core i3,‎8 GB,‎SSD,Not Avail,Not Avail,Not Avail,‎Windows 11 Home
+Not Avail,‎HP,‎HP Laptop 15s-eq2144AU,‎15.6 Inches,‎AMD Ryzen 5 5500U,‎8 GB,‎SSD,‎512 GB,‎AMD,‎8 GB,‎Windows 11 Home
+"30,990",‎Acer,Not Avail,‎15.6 Inches,‎Core I3 1115G4,‎8 GB,‎SSD,Not Avail,Not Avail,Not Avail,‎Windows 11 Home
+"29,490",‎HP,‎15s-fq3071TU,‎39.6 Centimetres,‎Celeron,‎8 GB,‎SSD,‎512 GB,‎Intel,Not Avail,‎Windows 11 Home
+"20,200",‎HP,‎HP 255 G9,‎15.6 Inches,‎Athlon,‎4 GB,‎SSD,‎256 GB,‎AMD,‎4 GB,‎Windows 11 Home
+"35,999",‎HP,Not Avail,‎15.6 Inches,‎Core i3,‎8 GB,‎SSD,‎512 GB,Not Avail,‎8 GB,‎Windows 11 Home
+"42,990",‎HP,Not Avail,‎39.6 Centimetres,‎Intel Core i3,‎8 GB,‎SSD,‎1 TB,Not Avail,‎8 GB,‎Windows 11 Home
+Not Avail,‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i7,‎16 GB,‎SSD,‎1 TB,‎Intel,‎8 GB,‎Windows 11 Home
+Not Avail,‎HP,‎HP ZBook Studio G9,‎40.6 Centimetres,‎Core i7,‎16 GB,‎SSD,Not Avail,‎NVIDIA,‎8 GB,‎Windows 11 Home
+"25,990",‎ASUS,‎VivoBook 15 (2021),‎15.6 Inches,‎Celeron N4020,‎4 GB,‎SSD,‎512 GB,‎Intel,‎4 GB,‎Windows 11 Home
+"23,990",‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i3,‎8 GB,‎SSD,‎512 GB,‎Intel,Not Avail,‎Windows 11 Home
+Not Avail,‎HP,‎14a- na1004TU,‎35.6 Centimetres,‎Celeron N,‎4 GB,‎SSD,‎64 GB,‎Intel,‎4 GB,‎Windows 11 Home
+"18,990",‎Chuwi,‎HeroBook Pro,‎14.1 Inches,‎Celeron,‎8 GB,Not Avail,‎256 GB,‎Intel,Not Avail,‎Windows 11 Home
+"37,990",‎Acer,‎Aspire Lite,‎15.6 Inches,‎AMD Ryzen 5 5500U,‎16 GB,‎SSD,Not Avail,‎AMD,Not Avail,‎Windows 11 Home
+"39,690",‎HP,Not Avail,‎39.6 Centimetres,‎Core i3,‎8 GB,‎SSD,‎512 GB,Not Avail,Not Avail,‎Windows 11 Home
+"19,990",‎HP,‎Chromebook,‎14 Inches,‎Celeron N4020,‎4 GB,‎SSD,‎64 GB,‎Intel,‎4 GB,‎Windows 11 Home
+Not Avail,‎HP,‎255 G8,‎15.6 Inches,‎Athlon 3050U,‎8 GB,‎SSD,‎256 GB,‎AMD,Not Avail,‎Windows 11 Home
+"20,200",‎HP,‎HP 255 G9,‎15.6 Inches,‎Athlon,‎4 GB,‎SSD,‎256 GB,‎AMD,‎4 GB,‎Windows 11 Home
+Not Avail,‎HP,Not Avail,‎15.6 Inches,‎Core i3,‎8 GB,‎SSD,‎512 GB,Not Avail,‎8 GB,‎Windows 11 Home
+"42,990",‎HP,Not Avail,‎39.6 Centimetres,‎Intel Core i3,‎8 GB,‎SSD,‎1 TB,Not Avail,‎8 GB,‎Windows 11 Home
+"35,990",‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i7,‎16 GB,‎SSD,‎1 TB,‎Intel,‎8 GB,‎Windows 11 Home
+"32,990",‎HP,‎15s- eq2213AU,‎39.6 Centimetres,‎Ryzen 3,‎8 GB,‎SSD,‎512 GB,‎AMD,‎8 GB,‎Windows 11 Home
+Not Avail,‎ASUS,‎ROG Flow X13,‎34.03 Centimetres,‎Ryzen 9,‎16,‎SSD,‎512 GB,‎NVIDIA,‎4 GB,‎Windows 11 Home
+"35,990",‎Tecno,‎MEGABOOK T1,‎15.6 Inches,‎Intel Core i7,‎16 GB,‎SSD,‎1 TB,‎Intel,Not Avail,‎Windows 11 Home
