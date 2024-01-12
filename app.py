@@ -6,14 +6,15 @@ import pandas as pd
 import numpy as np
 import plotly.express as px 
 import plotly.graph_objects as go
+from dash.dependencies import Input,Output
 
 server=Flask(__name__)
-app=dash.Dash(__name__ , server=server,external_stylesheets=[dbc.themes.BOOTSTRAP,dbc.icons.BOOTSTRAP])
+app=dash.Dash(__name__ , server=server,external_stylesheets=[dbc.themes.UNITED,dbc.icons.BOOTSTRAP])
 
 df=pd.read_csv('Cleaned_Laptop_data.csv')
 
 
-Header_component=html.H1("Laptop Analysis (Amazon)",style={'color':'darkred'})
+Header_component=html.H1("Laptop Analysis (Amazon)",style={'color':'darkred','text-align':'center','font-size':72})
 
 
 barfig=go.FigureWidget(
