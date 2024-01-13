@@ -31,7 +31,12 @@ options=[
 app= dash.Dash(__name__, external_stylesheets=external_stylesheets)
 
 
-piep=go.Figure(data=[go.Pie(labels=df['brand'].unique() , values=df['brand'].value_counts().tolist())])
+#piep=go.Figure(data=[go.Pie(labels=df['brand'].unique() , values=df['brand'].value_counts().tolist())])
+piep=px.pie(labels=df['brand'].unique() , values=df['brand'].value_counts().tolist(),title="Porportion of Market",hole=0.2,names=df['brand'].unique())
+# piep.update_traces(hoverinfo='label+value',textinfo='')
+piep.update_traces(textposition='inside')
+piep.update_layout(uniformtext_minsize=12, uniformtext_mode='hide')
+
 
 app.layout=html.Div([
     html.H1("Laptop Analysis",style={'color': 'rgb(255, 255, 255)', 'text-align': 'center'}),
@@ -64,7 +69,8 @@ app.layout=html.Div([
                     ],className='card-body')
                 ],className='card bg-warning')],className='col-md-2')
         ],className='row'),
-    
+    html.Br(),
+    #PIECHART (MIDDLE ROW)
     html.Div([
        html.Div([
            
@@ -74,6 +80,7 @@ app.layout=html.Div([
            ],className='col-md-4'),
        
         ],className='row'),
+    html.Br(),
     html.Div([
         
         html.Div([
