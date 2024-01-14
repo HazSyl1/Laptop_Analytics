@@ -32,7 +32,7 @@ options=[
     
 ]
 
-app= dash.Dash(__name__, external_stylesheets=external_stylesheets)
+app= dash.Dash(__name__, external_stylesheets=external_stylesheets,title="Laptop Analysis")
 server=app.server
 
 #piep=go.Figure(data=[go.Pie(labels=df['brand'].unique() , values=df['brand'].value_counts().tolist())])
