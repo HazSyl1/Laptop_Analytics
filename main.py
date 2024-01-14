@@ -32,7 +32,7 @@ options=[
     
 ]
 
-app= dash.Dash(__name__, external_stylesheets=external_stylesheets)
+app= dash.Dash(__name__, external_stylesheets=external_stylesheets,title="Laptop Analysis")
 server=app.server
 
 #piep=go.Figure(data=[go.Pie(labels=df['brand'].unique() , values=df['brand'].value_counts().tolist())])
@@ -43,7 +43,7 @@ piep.update_layout(uniformtext_minsize=12, uniformtext_mode='hide')
 piep.update_layout(paper_bgcolor='rgba(0,0,0,0)')
 
 three_plot=fig = px.scatter_3d( x=brands, y=avg_prices, z=avg_ratings,color=brands , size_max=12, opacity=0.8)
-three_plot.update_layout(paper_bgcolor='rgba(0,0,0,0)')
+three_plot.update_layout(paper_bgcolor='rgba(0,0,0,0)',scene={'xaxis_title': 'Brands', 'yaxis_title': 'Avg Price', 'zaxis_title': 'Avg Rate(5)'})
 
 app.layout=html.Div([
     html.Br(),
