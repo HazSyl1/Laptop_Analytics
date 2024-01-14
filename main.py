@@ -43,7 +43,7 @@ piep.update_layout(uniformtext_minsize=12, uniformtext_mode='hide')
 piep.update_layout(paper_bgcolor='rgba(0,0,0,0)')
 
 three_plot=fig = px.scatter_3d( x=brands, y=avg_prices, z=avg_ratings,color=brands , size_max=12, opacity=0.8)
-three_plot.update_layout(paper_bgcolor='rgba(0,0,0,0)',scene={'xaxis_title': 'Brands', 'yaxis_title': 'Avg Price', 'zaxis_title': 'Avg Rate(5)'})
+three_plot.update_layout(paper_bgcolor='rgba(0,0,0,0)')
 
 app.layout=html.Div([
     html.Br(),

@@ -1,6 +1,6 @@
-# Project Name
 
-Laptop Analisys using Dash.
+
+# Laptop Analisys using Dash.
 
 
 
